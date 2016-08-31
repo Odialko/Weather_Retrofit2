@@ -5,7 +5,7 @@
         jar="C:\Android\Weather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="acaa273f4ba1bd965131d84c36e3ed6d8699f87a">
+        sha1="447900deb211ebd8b82dd2333defee5f3c36ad3a">
         <dex dex="C:\Android\Weather\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e5d3b14b07409bc7522f970093fa185b945e8bfe.jar" />
     </item>
 
